@@ -1,6 +1,7 @@
 x=int(input("enter value for x"))
 y=int(input("Enter value for y"))
 
+# Please add a function named as multiplication
 
 def Addition(a,b):
     return a+b
